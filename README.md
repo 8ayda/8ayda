@@ -1,4 +1,4 @@
-##HI, I'm Ghayda ✨
+## HI, I'm Ghayda ✨
 
 🎓 Software Engineering Student at **ENSI**<br/>
 🧠 Building with **AI** & **Computer Vision**<br/>

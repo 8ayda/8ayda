@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header/header.png" alt="Header" width="100%" />
+</p>
+
 # HI, I'm Ghayda 👋
 **Data engineer** | **Software Engineering Student at ENSI**
 
@@ -9,6 +13,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF0000?style=flat-square&logo=databricks&logoColor=white)
 
+## 🚀 What I'm doing:
+- Building scalable data pipelines and ETL processes using PySpark, Databricks, and Azure  
+- Exploring new technologies and tools in the data engineering ecosystem  
 
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-GhaydaTebessi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ghayda-tebessi)
